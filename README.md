@@ -1,1 +1,1 @@
-I am a programer from China and I am a communication engineer. # NetPanel
+I am a communication engineer as well as a programer. # NetPanel
