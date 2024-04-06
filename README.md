@@ -1,1 +1,2 @@
-I am a communication engineer as well as a programer. # NetPanel
+I am a communication engineer as well as a programer. When I work, most of time, I use SpeedTest or Cellular-z apps to test wireless network speed and latency. I founs that these apps is single pattern, cannot be customed by users. So I want to create my own speedtest software. I name it NetPanel. I define it as open source and contain a server library, client library,which users can use them to create their own apps.
+Server library is support multi-protocols in the same time. Client library is be decided which protocol by users.# NetPanel
